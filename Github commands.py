@@ -14,7 +14,7 @@
 #git add . && git commit -m "Hello"
 
 #Create and switch to a new branch:
-#git checkout -b new-branch
+#git branch branch-name
 
 #Switch  branch:
 #git switch branch-name
@@ -40,6 +40,8 @@
 #Discard local changes:
 #git restore file.txt
 
+#Github Change into local Repository :
+#git pull origin master
 
 
 
